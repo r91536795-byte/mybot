@@ -8,7 +8,7 @@ import threading
 from flask import Flask, request, jsonify
 
 # ========== НАСТРОЙКИ (ТОКЕН БЕРЕТСЯ ИЗ ПЕРЕМЕННЫХ RENDER) ==========
-TOKEN = os.environ.get("8987580800:AAEHDZZWZb149C8DiYKKZaE8kZk-0mQ9TCo")
+TOKEN = os.environ.get("TOKEN")
 MAIN_ADMIN = int(os.environ.get("MAIN_ADMIN", "8763658506"))
 SUPPORT = os.environ.get("SUPPORT", "@KONS_TZ")
 
