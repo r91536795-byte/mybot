@@ -12,7 +12,7 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(
 
 # ========== НАСТРОЙКИ ==========
 TOKEN = os.environ.get("TOKEN")
-MAIN_ADMIN = 8763658506  # Ваш Telegram ID
+MAIN_ADMIN = 7905866942  # Ваш Telegram ID
 SUPPORT = "@KONS_TZ"
 ID_HINT_PHOTO = "https://i.ibb.co/6wXgV0b/1xbet-id-hint.jpg"
 
